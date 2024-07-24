@@ -1,0 +1,21 @@
+{
+  "background": {
+    "regular": "#FFFFFF",
+    "dark": "#0C111C"
+  },
+  "secondary": {
+    "DEFAULT": "#FF80B520"
+  },
+  "card": {
+    "dark": "#101828",
+    "regular": "#F9FAFB"
+  },
+  "title": {
+    "regular": "#111827",
+    "dark": "#FFFFFF"
+  },
+  "subtext": {
+    "regular": "#4B5563",
+    "dark": "#C4C4C4"
+  }
+}

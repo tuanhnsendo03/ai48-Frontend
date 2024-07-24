@@ -1,0 +1,73 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient Car Rental Services for Every Journey",
+        "title": "Effortless Car Rentals Tailored for You"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient Car Rental Services for Every Journey",
+        "title": "Effortless Car Rentals Tailored for You"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "buttonText": "Find Your Ride",
+        "linkText": "Discover More",
+        "subtitle": "Experience hassle-free car rentals with our reliable and affordable service, designed to get you on the road with confidence. 1",
+        "title": "Seamless Car Rentals for Every Journey 1"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient Car Rental Services for Every Journey",
+        "title": "Effortless Car Rentals Tailored for You"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient Car Rental Services for Every Journey",
+        "title": "Effortless Car Rentals Tailored for You"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient Car Rental Services for Every Journey",
+        "title": "Effortless Car Rentals Tailored for You"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient Car Rental Services for Every Journey",
+        "title": "Effortless Car Rentals Tailored for You"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient Car Rental Services for Every Journey",
+        "title": "Effortless Car Rentals Tailored for You"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Professional, Reliable, and Convenient Car Rental Services for Every Journey",
+        "title": "Effortless Car Rentals Tailored for You"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Effortless Car Rentals Tailored for You",
+  "subtitle": "Professional, Reliable, and Convenient Car Rental Services for Every Journey"
+}
